@@ -220,7 +220,7 @@ Project ini dibuat untuk keperluan pembelajaran Flutter development.
 
 **Adipramana Dev**
 - GitHub: [@adipramanadev](https://github.com/adipramanadev)
-- Email: [Your Email]
+
 
 ---
 
